@@ -1,4 +1,4 @@
 # firstrepo
 First repository
 <br>
-Author-Shikhar Yadav
+Author-Shikhar Yadav(IMS college)
